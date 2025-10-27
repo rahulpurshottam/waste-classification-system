@@ -16,34 +16,36 @@ The problem is preety much stright forward, we all are famelier with Garbage and
 ![Introduction to Transfer Learning and Fine Tuning](https://github.com/rahulpurshottam/waste-classification-system/blob/adfb77ea8223f14e2409ea0370e540ceab370363/1_f.jpg)
 
 ---
+(https://github.com/rahulpurshottam/waste-classification-system/blob/main/2_f.jpg)
 
 ## VGG16 Architeture using Tranfer Learning
 
 ### Loss Plot of VGG16
 
-![Loss Plot of VGG16](Screenshot%20from%202025-10-27%2022-08-13.png)
+![Loss Plot of VGG16](https://github.com/rahulpurshottam/waste-classification-system/blob/main/LossVal_loss.png)
 
 ---
 
+(https://github.com/rahulpurshottam/waste-classification-system/blob/main/AccVal_acc.png)
 ## ResNet50 Architeture using Tranfer Learning
 
 ### Loss Plot of ResNet50
 
-![Loss and Accuracies Plot of ResNet50](Screenshot%20from%202025-10-27%2022-08-26.png)
+![Loss and Accuracies Plot of ResNet50](https://github.com/rahulpurshottam/waste-classification-system/blob/main/ResNet_Loss.png)
 
 ---
-
+(https://github.com/rahulpurshottam/waste-classification-system/blob/main/ResNet50_Accuracy.png)
 ## Improve VGG-16 using Tranfer Learning
 
 ### Loss and Accuuracy Plot of VGG-16 with TF
 
-![Loss and Accuracy Plot of VGG-16 with TF](Screenshot%20from%202025-10-27%2022-08-33.png)
+![Loss and Accuracy Plot of VGG-16 with TF](https://github.com/rahulpurshottam/waste-classification-system/blob/main/train_TF.png)
 
 ## Improve VGG-16 using Fine Tuning
 
 ### Loss and Accuuracy Plot of VGG-16 with FT
 
-![Loss and Accuracy Plot of VGG-16 with FT](Screenshot%20from%202025-10-27%2022-08-39.png)
+![Loss and Accuracy Plot of VGG-16 with FT](https://github.com/rahulpurshottam/waste-classification-system/blob/main/FT.png)
 
 ---
 
