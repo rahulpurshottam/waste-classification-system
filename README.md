@@ -13,7 +13,7 @@ The problem is preety much stright forward, we all are famelier with Garbage and
 
 ## Introduction of Tranfer Learning and Fine Tuning
 
-![Introduction to Transfer Learning and Fine Tuning](Screenshot%20from%202025-10-27%2022-07-59.jpg)
+![Introduction to Transfer Learning and Fine Tuning](https://github.com/rahulpurshottam/waste-classification-system/blob/adfb77ea8223f14e2409ea0370e540ceab370363/1_f.jpg)
 
 ---
 
