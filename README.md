@@ -22,21 +22,28 @@ The problem is preety much stright forward, we all are famelier with Garbage and
 
 ### Loss Plot of VGG16
 
-![Loss Plot of VGG16](https://github.com/rahulpurshottam/waste-classification-system/blob/main/LossVal_loss.png)
+<p align="center">
+  <img src="https://github.com/rahulpurshottam/waste-classification-system/blob/main/LossVal_loss.png" alt="Loss Plot of VGG16" width="600">
+</p>
 
 ---
 ### Accuracies Plot of VGG16
-![Accuracies Plot of VGG16](https://github.com/rahulpurshottam/waste-classification-system/blob/main/AccVal_acc.png)
+<p align="center">
+  <img src="https://github.com/rahulpurshottam/waste-classification-system/blob/main/AccVal_acc.png" alt="Accuracies Plot of VGG16" width="600">
+</p>
 
 ## ResNet50 Architeture using Tranfer Learning
 
 ### Loss Plot of ResNet50
-
-![Loss Plot of ResNet50](https://github.com/rahulpurshottam/waste-classification-system/blob/main/ResNet_Loss.png)
+<p align="center">
+  <img src="https://github.com/rahulpurshottam/waste-classification-system/blob/main/ResNet_Loss.png" alt="Loss Plot of ResNet50" width="600">
+</p>
 
 ---
 ### Accuracies Plot of ResNet50
-![Accuracies Plot of ResNet50](https://github.com/rahulpurshottam/waste-classification-system/blob/main/ResNet50_Accuracy.png)
+<p align="center">
+  <img src="https://github.com/rahulpurshottam/waste-classification-system/blob/main/ResNet50_Accuracy.png" alt="Accuracies Plot of ResNet50" width="600">
+</p>
 
 ## Improve VGG-16 using Tranfer Learning
 
